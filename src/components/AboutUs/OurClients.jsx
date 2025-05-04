@@ -43,7 +43,7 @@ function OurClients() {
                 </div>
             </div>
 
-            <img src='/Seng Tai Images/OurClients.jpg' alt='OurClients' className='w-[400px] h-auto'/>
+            <img src='/Seng-Tai-Timber/Seng Tai Images/OurClients.jpg' alt='OurClients' className='w-[400px] h-auto'/>
 
             <div className='flex flex-row md:flex-col items-center justify-center gap-20'>
                 <div className='flex flex-col rounded-md bg-[#A47551] items-center justify-evenly h-[250px] w-[350px]' ref={ref3}>
