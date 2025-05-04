@@ -56,14 +56,14 @@ function ProductDescription() {
                 </motion.div>
             </div>
             <img
-                src='/Seng Tai Images/Furniture.jpg'
+                src='/Seng-Tai-Timber/Seng Tai Images/Furniture.jpg'
                 alt='Furniture'
                 className='w-full md:w-1/2 h-full object-cover'
             />
         </div>
         <div className='flex flex-col md:flex-row items-stretch w-full'>
             <img
-                src='/Seng Tai Images/religious-supply1.jpg'
+                src='/Seng-Tai-Timber/Seng Tai Images/religious-supply1.jpg'
                 alt='Religious Supplies'
                 className='w-full md:w-1/2 h-full object-cover'
             />

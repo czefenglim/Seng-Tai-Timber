@@ -6,10 +6,10 @@ function ProductFlipImages() {
     const [currentPage, setCurrentPage] = useState(0);
 
     const pages = [
-        { label: "Chengai", image: "/Seng Tai Images/ChengalWood.jpg" },
-        { label: "Kempas", image: "/Seng Tai Images/Kempas wood.jpg" },
-        { label: "Meranti", image: "/Seng Tai Images/Meranti.jpg" },
-        { label: "Sepetir", image: "/Seng Tai Images/Sepetir.jpg" }
+        { label: "Chengai", image: "/Seng-Tai-Timber/Seng Tai Images/ChengalWood.jpg" },
+        { label: "Kempas", image: "/Seng-Tai-Timber/Seng Tai Images/Kempas wood.jpg" },
+        { label: "Meranti", image: "/Seng-Tai-Timber/Seng Tai Images/Meranti.jpg" },
+        { label: "Sepetir", image: "/Seng-Tai-Timber/Seng Tai Images/Sepetir.jpg" }
     ];
 
     // Auto flip every 3 seconds
