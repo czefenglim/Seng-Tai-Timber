@@ -5,7 +5,7 @@ function GalleryFooter() {
   return (
     <div>
         <Parallax
-            bgImage="/Seng Tai Images/FooterImage.jpg" 
+            bgImage="/Seng-Tai-Timber/Seng Tai Images/FooterImage.jpg" 
             bgImageAlt="Hero" 
             strength={400}
         >

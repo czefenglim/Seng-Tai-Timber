@@ -43,7 +43,7 @@ function ImageCarousel() {
           <SwiperSlide key={idx}>
             <div className='flex items-center justify-center h-full'>
               <img
-                src={`/Seng Tai Images/${file}`}
+                src={`/Seng-Tai-Timber/Seng Tai Images/${file}`}
                 alt={`Slide ${idx}`}
                 className='max-w-[90%] max-h-[90%] object-contain'
               />

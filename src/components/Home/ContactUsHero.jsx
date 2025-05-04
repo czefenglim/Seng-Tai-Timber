@@ -8,7 +8,7 @@ function ContactUsHero() {
     const [ref1, inView1] = useInView({ triggerOnce: true });
 
   return (
-    <Parallax bgImage='/Seng Tai Images/seng_tai_welcome.jpg' bgImageAlt='Welcome' strength={400}>
+    <Parallax bgImage='/Seng-Tai-Timber/Seng Tai Images/seng_tai_welcome.jpg' bgImageAlt='Welcome' strength={400}>
     
         <div className='relative w-full h-screen flex flex-col items-center justify-center'>
 

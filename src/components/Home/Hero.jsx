@@ -13,7 +13,7 @@ function Hero() {
 
     return (
       <Parallax 
-        bgImage="/Seng Tai Images/hero.jpg" 
+        bgImage="/Seng-Tai-Timber/Seng Tai Images/hero.jpg" 
         bgImageAlt="Header" 
         strength={400}
       >

@@ -11,7 +11,7 @@ function ProductDescription() {
     <div className='flex flex-col'>
         <div className='flex flex-col md:flex-row items-stretch w-full'>
             <img
-                src='/Seng Tai Images/polished-woods.jpg'
+                src='/Seng-Tai-Timber/Seng Tai Images/polished-woods.jpg'
                 alt='raw Material'
                 className='w-full md:w-1/2 h-full object-cover'
             />

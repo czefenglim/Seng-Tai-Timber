@@ -14,7 +14,7 @@ function Navbar() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
             {/* Left: Logo*/}
             <div className="items-center pl-[100px]">
-                <img src="/Seng Tai Images/seng tai logo.png" alt="Seng Tai Logo" className="h-24 w-auto object-contain" />
+                <img src="/Seng-Tai-Timber/Seng Tai Images/seng tai logo.png" alt="Seng Tai Logo" className="h-24 w-auto object-contain" />
             </div>
 
             {/* Right: Navigation Links */}

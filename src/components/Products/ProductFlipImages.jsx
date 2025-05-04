@@ -29,7 +29,7 @@ function ProductFlipImages() {
 
     return (
         <div className="flex flex-col px-4 py-10 gap-6 items-center bg-[#FAF4EF]">
-            <img src='/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
+            <img src='/Seng-Tai-Timber/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
             <h2 className='text-[36px] md:text-[48px] lg:text-[60px] text-[#A47551] font-gidugu z-20 text-center'>TYPES OF WOOD</h2>
             <div className="flex flex-col items-center min-h-screen bg-gray-100 py-10">
                 {/* Dynamic Label */}

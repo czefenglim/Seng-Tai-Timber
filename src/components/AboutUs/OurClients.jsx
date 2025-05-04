@@ -15,7 +15,7 @@ function OurClients() {
 
   return (
     <div className='flex flex-col gap-3 bg-[#FAF4EF] items-center justify-center py-10 px-20'>
-        <img src='/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
+        <img src='/Seng-Tai-Timber/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
         <h2 className='text-[36px] md:text-[48px] lg:text-[60px] text-[#A47551] font-gidugu z-20 text-center'>OUR CLIENTS</h2>
         <div className='flex flex-col md:flex-row justify-between gap-6 py-10 w-full'>
             <div className='flex flex-row md:flex-col items-center justify-center gap-20'>

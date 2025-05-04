@@ -10,7 +10,7 @@ function Footer() {
             {/* Left Section */}
             <div className='flex flex-col justify-start w-1/3 text-[#F0D7BF]'>
                 <img 
-                    src='/Seng Tai Images/seng tai logo.png' 
+                    src='/Seng-Tai-Timber/Seng Tai Images/seng tai logo.png' 
                     alt='Footer Logo' 
                     className='w-[97px] h-[83px] md:w-[193px] md:h-[165px] mb-4'
                 />

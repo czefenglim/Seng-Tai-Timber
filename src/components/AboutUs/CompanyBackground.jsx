@@ -3,7 +3,7 @@ import React from 'react'
 function CompanyBackground() {
   return (
     <div className='flex flex-col md:flex-row items-center justify-center bg-[#FAF4EF]  gap-10 px-20 py-20'>
-      <img src='/Seng Tai Images/Company-background.jpg' alt='Company background' className='rounded-md w-[700px] h-auto'/>
+      <img src='/Seng-Tai-Timber/Seng Tai Images/Company-background.jpg' alt='Company background' className='rounded-md w-[700px] h-auto'/>
       <div className='flex flex-col py-2 px-2'>
         <h2 className='text-[24px] md:text-[36px] lg:text-[48px] font-gidugu text-[#A47551]'>
             Company Background

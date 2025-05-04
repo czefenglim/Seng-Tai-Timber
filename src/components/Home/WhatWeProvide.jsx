@@ -3,7 +3,7 @@ import React from 'react'
 function WhatWeProvide() {
   return (
     <div className='flex flex-col items-center justify-center bg-[#EDD3B6] py-10 gap-3'>
-      <img src='/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
+      <img src='/Seng-Tai-Timber/Seng Tai Images/seng tai logo.png' alt='Logo' className="h-24 w-auto"/>
       <h2 className='text-[40px] md:text-[64px] text-[#3E2723] text-center font-gidugu px-10'>
         WHAT WE PROVIDE
       </h2>
@@ -14,7 +14,7 @@ function WhatWeProvide() {
       <div className='flex flex-col md:flex-row items-center justify-center w-full gap-5' >
         <div className="flex flex-col justify-center items-center px-2 py-6 gap-5">
             <img
-                src='/Seng Tai Images/polished-woods.jpg'
+                src='/Seng-Tai-Timber/Seng Tai Images/polished-woods.jpg'
                 alt='raw Material'
                 className='w-[300px] h-auto'
             />
@@ -27,7 +27,7 @@ function WhatWeProvide() {
         </div>
         <div className="flex flex-col justify-center items-center px-2 py-6 gap-5">
             <img
-                src='/Seng Tai Images/Furniture.jpg'
+                src='/Seng-Tai-Timber/Seng Tai Images/Furniture.jpg'
                 alt='Furniture'
                 className='w-[300px] h-auto'
             />
@@ -40,7 +40,7 @@ function WhatWeProvide() {
         </div>
         <div className="flex flex-col justify-center items-center px-2 py-6 gap-5">
             <img
-              src='/Seng Tai Images/religious-supply1.jpg'
+              src='/Seng-Tai-Timber/Seng Tai Images/religious-supply1.jpg'
               alt='Religious Supplies'
               className='w-[300px] h-[200px] object-cover rounded'
             />

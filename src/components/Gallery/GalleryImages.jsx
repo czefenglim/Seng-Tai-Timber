@@ -64,7 +64,7 @@ function GalleryImages() {
         {imageFiles.map((file, index) => (
           <div key={index} className='relative group w-[300px] h-[200px] rounded-md overflow-hidden shadow-sm'>
             <img
-              src={`/Seng Tai Images/${file}`}
+              src={`/Seng-Tai-Timber/Seng Tai Images/${file}`}
               alt={`Gallery ${index}`}
               className='w-full h-full object-cover transition-transform duration-300 group-hover:scale-105'
             />

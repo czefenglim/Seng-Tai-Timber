@@ -5,21 +5,21 @@ import { Link } from 'react-router-dom'
 
 const carouselData = [
     {
-        image: '/Seng Tai Images/Welcome 1.jpg',
+        image: '/Seng-Tai-Timber/Seng Tai Images/Welcome 1.jpg',
         title: 'Sustainability Meets Strength',
         description: 'Crafted timber for modern living spaces. Responsibly sourced.',
         buttonText: 'Read More About Us',
         link: '/aboutus'
     },
     {
-        image: '/Seng Tai Images/Wood image Seng Tai 2.jpg',
+        image: '/Seng-Tai-Timber/Seng Tai Images/Wood image Seng Tai 2.jpg',
         title: 'Beauty in Every Grain',
         description: 'Elevate your furniture with natural elegance.',
         buttonText: 'View Products',
         link: '/products'
     },
     {
-        image: '/Seng Tai Images/header Seng Tai.jpg',
+        image: '/Seng-Tai-Timber/Seng Tai Images/header Seng Tai.jpg',
         title: 'Precision and Quality',
         description: 'Built for durability, designed for beauty.',
         buttonText: 'Contact Us',

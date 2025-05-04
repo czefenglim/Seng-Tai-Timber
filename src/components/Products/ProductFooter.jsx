@@ -4,7 +4,7 @@ import { Parallax } from 'react-parallax'
 function ProductFooter() {
   return (
       <Parallax
-        bgImage="/Seng Tai Images/FooterImage.jpg" 
+        bgImage="/Seng-Tai-Timber/Seng Tai Images/FooterImage.jpg" 
         bgImageAlt="Hero" 
         strength={400}
       >
