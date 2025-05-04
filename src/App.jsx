@@ -15,7 +15,7 @@ import ImageCarousel from './components/Gallery/ImageCarousel'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Seng-Tai-Timber/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<AboutUs />} />
